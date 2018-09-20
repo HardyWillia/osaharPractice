@@ -1,0 +1,3 @@
+/home/lia/Documents/HelpOsahar/loops/build/CMakeFiles/rebuild_cache.dir
+/home/lia/Documents/HelpOsahar/loops/build/CMakeFiles/loops.dir
+/home/lia/Documents/HelpOsahar/loops/build/CMakeFiles/edit_cache.dir
