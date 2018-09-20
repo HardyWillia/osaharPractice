@@ -1,5 +1,5 @@
 #Ignore an entire directory
 
-HelpOsahar/basics/build/
+/basics/build/
 
-HelpOsahar/loops/build/
+/loops/build/
