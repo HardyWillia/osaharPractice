@@ -3,3 +3,8 @@
 /basics/build/
 
 /loops/build/
+
+
+/basics/CMakeLists.txt
+
+/loops/CMakeLists.txt
